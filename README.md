@@ -10,3 +10,4 @@ If you can wanna know the total size of the directory, then follwing
 ```shell
 du -hcs your_directory
 ```
+:+1:
